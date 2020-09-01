@@ -1,4 +1,4 @@
-package main.java.com.github.josersi.forca;
+package com.github.josersi.forca;
 
 class Hangman {
     private static String[] steps = new String[] {

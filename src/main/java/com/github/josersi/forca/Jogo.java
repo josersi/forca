@@ -1,4 +1,4 @@
-package main.java.com.github.josersi.forca;
+package com.github.josersi.forca;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

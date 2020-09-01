@@ -10,5 +10,5 @@ mvn install
 ## Como jogar
 
 ```sh
-package exec:java
+mvn package exec:java
 ```
